@@ -1,8 +1,8 @@
 # 本地复现与体验说明
 
-参考原仓库：https://github.com/Audreator/Simlect-AI-Mall ，main 提交 `348f7e94783dcbd87ddf645b9f6aa76026245e15`。参考副本在 E 盘项目 `.cache/upstream-reference`，没有覆盖现有配置。
+从 [myAi-Agent](https://github.com/jiaotangtilamisu-svg/myAi-Agent) 下载源码后，在项目根目录执行下文的命令。
 
-排除 CRLF 换行差异后，开始比对时没有缺失上游文件，应用源码与上游一致。保留了本地 `sql/05_order.sql` 对上游损坏注释引号的修复。ZIP 下载方式不是首页空白的原因。
+订单库初始化使用 [sql/05_order.sql](../sql/05_order.sql)，其中已修复 SQL 注释的引号。
 
 ## 已修复
 

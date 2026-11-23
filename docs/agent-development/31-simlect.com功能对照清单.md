@@ -1,6 +1,6 @@
 # simlect.com公开功能对照清单
 
-日期：2026-11-04。参考：https://www.simlect.com/ ，原仓库：https://github.com/Audreator/Simlect-AI-Mall 。
+日期：2026-11-04。对照对象为当日的 simlect.com 公开商城。
 
 ## 检查依据和边界
 
