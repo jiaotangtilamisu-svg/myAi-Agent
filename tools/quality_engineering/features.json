@@ -1,0 +1,534 @@
+[
+  {
+    "id": "G1",
+    "name": "自然语言需求理解",
+    "source": "Agent app/shopping/requirements.py",
+    "database": "product_info/product_sku/sku_stock + ES + Redis",
+    "api": "MCP SEARCH_PRODUCTS/GET_PRODUCT_DETAIL -> Product/Stock",
+    "frontend": "AgentChatItem/AgentProductList",
+    "tests": [
+      "test_quality_properties"
+    ],
+    "runtime": "LOCAL_PRODUCT_READ",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/shopping/requirements.py"
+    ]
+  },
+  {
+    "id": "G2",
+    "name": "价格范围结构化解析",
+    "source": "Agent app/shopping/requirements.py",
+    "database": "product_info/product_sku/sku_stock + ES + Redis",
+    "api": "MCP SEARCH_PRODUCTS/GET_PRODUCT_DETAIL -> Product/Stock",
+    "frontend": "AgentChatItem/AgentProductList",
+    "tests": [
+      "test_quality_properties"
+    ],
+    "runtime": "LOCAL_PRODUCT_READ",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/shopping/requirements.py"
+    ]
+  },
+  {
+    "id": "G3",
+    "name": "硬属性与软偏好",
+    "source": "Agent app/shopping/selection.py",
+    "database": "product_info/product_sku/sku_stock + ES + Redis",
+    "api": "MCP SEARCH_PRODUCTS/GET_PRODUCT_DETAIL -> Product/Stock",
+    "frontend": "AgentChatItem/AgentProductList",
+    "tests": [
+      "test_core_shopping_constraints"
+    ],
+    "runtime": "AUTOMATION_ONLY",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/shopping/requirements.py",
+      "Simlect-backend/Simlect-agent/app/shopping/selection.py"
+    ]
+  },
+  {
+    "id": "G4",
+    "name": "ES关键词召回",
+    "source": "Agent app/shopping/product_service.py",
+    "database": "product_info/product_sku/sku_stock + ES + Redis",
+    "api": "MCP SEARCH_PRODUCTS/GET_PRODUCT_DETAIL -> Product/Stock",
+    "frontend": "AgentChatItem/AgentProductList",
+    "tests": [
+      "EsSearchComponentTest"
+    ],
+    "runtime": "LOCAL_PRODUCT_READ",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/services/product_service.py",
+      "Simlect-backend/Simlect-agent/app/rag/retriever.py"
+    ]
+  },
+  {
+    "id": "G5",
+    "name": "ES向量召回",
+    "source": "Agent app/rag/retriever.py",
+    "database": "product_info/product_sku/sku_stock + ES + Redis",
+    "api": "MCP SEARCH_PRODUCTS/GET_PRODUCT_DETAIL -> Product/Stock",
+    "frontend": "AgentChatItem/AgentProductList",
+    "tests": [
+      "test_quality_fault_injection"
+    ],
+    "runtime": "BLOCKED_NO_PAID_EMBEDDING",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/rag/retriever.py"
+    ]
+  },
+  {
+    "id": "G6",
+    "name": "RRF多路融合",
+    "source": "Agent app/rag/rrf.py",
+    "database": "product_info/product_sku/sku_stock + ES + Redis",
+    "api": "MCP SEARCH_PRODUCTS/GET_PRODUCT_DETAIL -> Product/Stock",
+    "frontend": "AgentChatItem/AgentProductList",
+    "tests": [
+      "test_guardrails",
+      "test_product_search_relevance"
+    ],
+    "runtime": "AUTOMATION_ONLY",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/rag/rrf.py",
+      "Simlect-backend/Simlect-agent/app/services/product_service.py"
+    ]
+  },
+  {
+    "id": "G7",
+    "name": "Java商品SKU价格库存校验",
+    "source": "Agent app/product_service.py/selection.py",
+    "database": "product_info/product_sku/sku_stock + ES + Redis",
+    "api": "MCP SEARCH_PRODUCTS/GET_PRODUCT_DETAIL -> Product/Stock",
+    "frontend": "AgentChatItem/AgentProductList",
+    "tests": [
+      "ProductAgentQueryServiceTest"
+    ],
+    "runtime": "LOCAL_PRODUCT_READ",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/services/product_service.py",
+      "Simlect-backend/Simlect-agent/app/services/product_facts.py"
+    ]
+  },
+  {
+    "id": "G8",
+    "name": "2至3商品比较",
+    "source": "Agent app/graph.py/runner.py",
+    "database": "product_info/product_sku/sku_stock + ES + Redis",
+    "api": "MCP SEARCH_PRODUCTS/GET_PRODUCT_DETAIL -> Product/Stock",
+    "frontend": "AgentChatItem/AgentProductList",
+    "tests": [
+      "test_ordinal_comparison_regressions"
+    ],
+    "runtime": "LOCAL_PRODUCT_READ",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/shopping/graph.py",
+      "Simlect-backend/Simlect-agent/app/shopping/runner.py"
+    ]
+  },
+  {
+    "id": "G9",
+    "name": "真实数据推荐解释",
+    "source": "Agent app/shopping/selection.py",
+    "database": "product_info/product_sku/sku_stock + ES + Redis",
+    "api": "MCP SEARCH_PRODUCTS/GET_PRODUCT_DETAIL -> Product/Stock",
+    "frontend": "AgentChatItem/AgentProductList",
+    "tests": [
+      "test_quality_properties"
+    ],
+    "runtime": "LOCAL_PRODUCT_READ",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/shopping/selection.py"
+    ]
+  },
+  {
+    "id": "G10",
+    "name": "多轮上下文与条件调整",
+    "source": "Agent app/store.py/requirements.py",
+    "database": "product_info/product_sku/sku_stock + ES + Redis",
+    "api": "MCP SEARCH_PRODUCTS/GET_PRODUCT_DETAIL -> Product/Stock",
+    "frontend": "AgentChatItem/AgentProductList",
+    "tests": [
+      "test_shopping_agent"
+    ],
+    "runtime": "LOCAL_PRODUCT_READ",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/shopping/store.py",
+      "Simlect-backend/Simlect-agent/app/shopping/runner.py"
+    ]
+  },
+  {
+    "id": "A1",
+    "name": "本人订单查询",
+    "source": "Agent graph/aftersales_nodes.py、services/aftersales_diagnosis.py；Order AftersalesCaseService",
+    "database": "order_info/order_item/order_logistics_info；aftersales_*；knowledge_*",
+    "api": "QUERY_ORDERS/QUERY_LOGISTICS；/agent/aftersales/cases；/order/aftersalesCase/*",
+    "frontend": "AgentCasePanel/AgentChatItem",
+    "tests": [
+      "test_agent_order_security"
+    ],
+    "runtime": "BLOCKED_REAL_SESSION",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/services/order_service.py",
+      "Simlect-backend/Simlect-agent/app/supervisor/adapters.py"
+    ]
+  },
+  {
+    "id": "A2",
+    "name": "订单详情与明细",
+    "source": "Agent graph/aftersales_nodes.py、services/aftersales_diagnosis.py；Order AftersalesCaseService",
+    "database": "order_info/order_item/order_logistics_info；aftersales_*；knowledge_*",
+    "api": "QUERY_ORDERS/QUERY_LOGISTICS；/agent/aftersales/cases；/order/aftersalesCase/*",
+    "frontend": "AgentCasePanel/AgentChatItem",
+    "tests": [
+      "OrderAgentInternalControllerTest"
+    ],
+    "runtime": "BLOCKED_REAL_SESSION",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/services/order_service.py"
+    ]
+  },
+  {
+    "id": "A3",
+    "name": "物流查询",
+    "source": "Agent graph/aftersales_nodes.py、services/aftersales_diagnosis.py；Order AftersalesCaseService",
+    "database": "order_info/order_item/order_logistics_info；aftersales_*；knowledge_*",
+    "api": "QUERY_ORDERS/QUERY_LOGISTICS；/agent/aftersales/cases；/order/aftersalesCase/*",
+    "frontend": "AgentCasePanel/AgentChatItem",
+    "tests": [
+      "test_aftersales_diagnosis"
+    ],
+    "runtime": "BLOCKED_REAL_SESSION",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/services/mcp_tools_service.py"
+    ]
+  },
+  {
+    "id": "A4",
+    "name": "有效售后政策检索",
+    "source": "Agent graph/aftersales_nodes.py、services/aftersales_diagnosis.py；Order AftersalesCaseService",
+    "database": "order_info/order_item/order_logistics_info；aftersales_*；knowledge_*",
+    "api": "QUERY_ORDERS/QUERY_LOGISTICS；/agent/aftersales/cases；/order/aftersalesCase/*",
+    "frontend": "AgentCasePanel/AgentChatItem",
+    "tests": [
+      "test_policy_governance"
+    ],
+    "runtime": "LOCAL_POLICY_READ",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/rag/retriever.py",
+      "Simlect-backend/Simlect-agent/app/rag/policy.py"
+    ]
+  },
+  {
+    "id": "A5",
+    "name": "证据约束的售后资格建议",
+    "source": "Agent graph/aftersales_nodes.py、services/aftersales_diagnosis.py；Order AftersalesCaseService",
+    "database": "order_info/order_item/order_logistics_info；aftersales_*；knowledge_*",
+    "api": "QUERY_ORDERS/QUERY_LOGISTICS；/agent/aftersales/cases；/order/aftersalesCase/*",
+    "frontend": "AgentCasePanel/AgentChatItem",
+    "tests": [
+      "test_aftersales_diagnosis"
+    ],
+    "runtime": "AUTOMATION_ONLY",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/services/aftersales_diagnosis.py"
+    ]
+  },
+  {
+    "id": "A6",
+    "name": "申请提案",
+    "source": "Agent graph/aftersales_nodes.py、services/aftersales_diagnosis.py；Order AftersalesCaseService",
+    "database": "order_info/order_item/order_logistics_info；aftersales_*；knowledge_*",
+    "api": "QUERY_ORDERS/QUERY_LOGISTICS；/agent/aftersales/cases；/order/aftersalesCase/*",
+    "frontend": "AgentCasePanel/AgentChatItem",
+    "tests": [
+      "test_aftersales_cases"
+    ],
+    "runtime": "ISOLATED_H2",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/api/routes/agent.py"
+    ]
+  },
+  {
+    "id": "A7",
+    "name": "用户确认卡片",
+    "source": "Agent graph/aftersales_nodes.py、services/aftersales_diagnosis.py；Order AftersalesCaseService",
+    "database": "order_info/order_item/order_logistics_info；aftersales_*；knowledge_*",
+    "api": "QUERY_ORDERS/QUERY_LOGISTICS；/agent/aftersales/cases；/order/aftersalesCase/*",
+    "frontend": "AgentCasePanel/AgentChatItem",
+    "tests": [
+      "AftersalesCasePersistenceTest"
+    ],
+    "runtime": "ISOLATED_H2",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/api/routes/agent.py"
+    ]
+  },
+  {
+    "id": "A8",
+    "name": "用户确认后提交",
+    "source": "Agent graph/aftersales_nodes.py、services/aftersales_diagnosis.py；Order AftersalesCaseService",
+    "database": "order_info/order_item/order_logistics_info；aftersales_*；knowledge_*",
+    "api": "QUERY_ORDERS/QUERY_LOGISTICS；/agent/aftersales/cases；/order/aftersalesCase/*",
+    "frontend": "AgentCasePanel/AgentChatItem",
+    "tests": [
+      "AftersalesCaseSecurityTest"
+    ],
+    "runtime": "ISOLATED_H2",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/api/routes/agent.py"
+    ]
+  },
+  {
+    "id": "A9",
+    "name": "申请进度查询",
+    "source": "Agent graph/aftersales_nodes.py、services/aftersales_diagnosis.py；Order AftersalesCaseService",
+    "database": "order_info/order_item/order_logistics_info；aftersales_*；knowledge_*",
+    "api": "QUERY_ORDERS/QUERY_LOGISTICS；/agent/aftersales/cases；/order/aftersalesCase/*",
+    "frontend": "AgentCasePanel/AgentChatItem",
+    "tests": [
+      "AftersalesCasePersistenceTest"
+    ],
+    "runtime": "ISOLATED_H2",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/supervisor/adapters.py"
+    ]
+  },
+  {
+    "id": "B1",
+    "name": "管理员人工审核",
+    "source": "Order AftersalesCaseService/CaseAuthentication/AftersalesCaseMapper",
+    "database": "aftersales_case/plan/manual_task/audit",
+    "api": "/admin-api/aftersalesCase/*",
+    "frontend": "Admin views/order/AftersalesCases.vue",
+    "tests": [
+      "AftersalesCaseSecurityTest"
+    ],
+    "runtime": "ISOLATED_H2",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-order/app/src/main/java/com/simlect/biz/AftersalesCaseService.java",
+      "Simlect-backend/Simlect-order/app/src/main/java/com/simlect/controller/aftersales/AftersalesAdminController.java"
+    ]
+  },
+  {
+    "id": "B2",
+    "name": "退货物流填写",
+    "source": "Order AftersalesCaseService/CaseAuthentication/AftersalesCaseMapper",
+    "database": "aftersales_case/plan/manual_task/audit",
+    "api": "/admin-api/aftersalesCase/*",
+    "frontend": "Admin views/order/AftersalesCases.vue",
+    "tests": [
+      "AftersalesCasePersistenceTest"
+    ],
+    "runtime": "ISOLATED_H2",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-order/app/src/main/java/com/simlect/biz/AftersalesCaseService.java",
+      "Simlect-backend/Simlect-order/app/src/main/java/com/simlect/controller/aftersales/AftersalesAdminController.java"
+    ]
+  },
+  {
+    "id": "B3",
+    "name": "退货物流进度与异常管理",
+    "source": "Order AftersalesCaseService/CaseAuthentication/AftersalesCaseMapper",
+    "database": "aftersales_case/plan/manual_task/audit",
+    "api": "/admin-api/aftersalesCase/*",
+    "frontend": "Admin views/order/AftersalesCases.vue",
+    "tests": [
+      "AftersalesCasePersistenceTest"
+    ],
+    "runtime": "ISOLATED_H2",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-order/app/src/main/java/com/simlect/biz/AftersalesCaseService.java",
+      "Simlect-backend/Simlect-order/app/src/main/java/com/simlect/controller/aftersales/AftersalesAdminController.java"
+    ]
+  },
+  {
+    "id": "B4",
+    "name": "人工退货验收",
+    "source": "Order AftersalesCaseService/CaseAuthentication/AftersalesCaseMapper",
+    "database": "aftersales_case/plan/manual_task/audit",
+    "api": "/admin-api/aftersalesCase/*",
+    "frontend": "Admin views/order/AftersalesCases.vue",
+    "tests": [
+      "AftersalesCasePersistenceTest"
+    ],
+    "runtime": "ISOLATED_H2",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-order/app/src/main/java/com/simlect/biz/AftersalesCaseService.java",
+      "Simlect-backend/Simlect-order/app/src/main/java/com/simlect/controller/aftersales/AftersalesAdminController.java"
+    ]
+  },
+  {
+    "id": "B5",
+    "name": "隔离模拟退款执行",
+    "source": "Order AftersalesCaseService/CaseAuthentication/AftersalesCaseMapper",
+    "database": "aftersales_case/plan/manual_task/audit",
+    "api": "/admin-api/aftersalesCase/*",
+    "frontend": "Admin views/order/AftersalesCases.vue",
+    "tests": [
+      "AftersalesCasePersistenceTest"
+    ],
+    "runtime": "ISOLATED_H2",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-order/app/src/main/java/com/simlect/biz/AftersalesCaseService.java",
+      "Simlect-backend/Simlect-order/app/src/main/java/com/simlect/controller/aftersales/AftersalesAdminController.java"
+    ]
+  },
+  {
+    "id": "B6",
+    "name": "模拟退款失败与重试",
+    "source": "Order AftersalesCaseService/CaseAuthentication/AftersalesCaseMapper",
+    "database": "aftersales_case/plan/manual_task/audit",
+    "api": "/admin-api/aftersalesCase/*",
+    "frontend": "Admin views/order/AftersalesCases.vue",
+    "tests": [
+      "AftersalesCasePersistenceTest"
+    ],
+    "runtime": "ISOLATED_H2",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-order/app/src/main/java/com/simlect/biz/AftersalesCaseService.java",
+      "Simlect-backend/Simlect-order/app/src/main/java/com/simlect/controller/aftersales/AftersalesAdminController.java"
+    ]
+  },
+  {
+    "id": "B7",
+    "name": "原退款单号防重复",
+    "source": "Order AftersalesCaseService/CaseAuthentication/AftersalesCaseMapper",
+    "database": "aftersales_case/plan/manual_task/audit",
+    "api": "/admin-api/aftersalesCase/*",
+    "frontend": "Admin views/order/AftersalesCases.vue",
+    "tests": [
+      "AftersalesCasePersistenceTest"
+    ],
+    "runtime": "ISOLATED_H2",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-order/app/src/main/java/com/simlect/biz/AftersalesCaseService.java",
+      "Simlect-backend/Simlect-order/app/src/main/java/com/simlect/controller/aftersales/AftersalesAdminController.java"
+    ]
+  },
+  {
+    "id": "E1",
+    "name": "Supervisor复合调度与上下文隔离",
+    "source": "Agent services/graph/supervisor/rag/memory",
+    "database": "agent_message/Redis/ES/knowledge_*",
+    "api": "/api/agent/* + MCP",
+    "frontend": "AgentChatItem/views/agent/AgentChatList.vue",
+    "tests": [
+      "test_supervisor"
+    ],
+    "runtime": "AUTOMATION_ONLY",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/supervisor/graph.py"
+    ]
+  },
+  {
+    "id": "E2",
+    "name": "独立Agent模式保留",
+    "source": "Agent services/graph/supervisor/rag/memory",
+    "database": "agent_message/Redis/ES/knowledge_*",
+    "api": "/api/agent/* + MCP",
+    "frontend": "AgentChatItem/views/agent/AgentChatList.vue",
+    "tests": [
+      "test_supervisor"
+    ],
+    "runtime": "AUTOMATION_ONLY",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/services/agent_engine.py"
+    ]
+  },
+  {
+    "id": "E3",
+    "name": "MCP传输与业务错误",
+    "source": "Agent services/graph/supervisor/rag/memory",
+    "database": "agent_message/Redis/ES/knowledge_*",
+    "api": "/api/agent/* + MCP",
+    "frontend": "AgentChatItem/views/agent/AgentChatList.vue",
+    "tests": [
+      "test_aftersales_diagnosis"
+    ],
+    "runtime": "AUTOMATION_ONLY",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/mcp_server/server.py",
+      "Simlect-backend/Simlect-agent/app/services/mcp_tool_router.py"
+    ]
+  },
+  {
+    "id": "E4",
+    "name": "政策来源版本启停去重",
+    "source": "Agent services/graph/supervisor/rag/memory",
+    "database": "agent_message/Redis/ES/knowledge_*",
+    "api": "/api/agent/* + MCP",
+    "frontend": "AgentChatItem/views/agent/AgentChatList.vue",
+    "tests": [
+      "test_policy_governance"
+    ],
+    "runtime": "AUTOMATION_ONLY",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/rag/policy.py",
+      "Simlect-backend/Simlect-agent/app/rag/retriever.py"
+    ]
+  },
+  {
+    "id": "E5",
+    "name": "消息持久化及WS恢复",
+    "source": "Agent services/graph/supervisor/rag/memory",
+    "database": "agent_message/Redis/ES/knowledge_*",
+    "api": "/api/agent/* + MCP",
+    "frontend": "AgentChatItem/views/agent/AgentChatList.vue",
+    "tests": [
+      "test_policy_evidence_delivery"
+    ],
+    "runtime": "AUTOMATION_ONLY",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/services/message_service.py",
+      "Simlect-backend/Simlect-agent/app/services/stream_service.py"
+    ]
+  },
+  {
+    "id": "E6",
+    "name": "LLM超时503安全降级",
+    "source": "Agent services/graph/supervisor/rag/memory",
+    "database": "agent_message/Redis/ES/knowledge_*",
+    "api": "/api/agent/* + MCP",
+    "frontend": "AgentChatItem/views/agent/AgentChatList.vue",
+    "tests": [
+      "test_policy_model_resilience"
+    ],
+    "runtime": "AUTOMATION_ONLY",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/rag/advice.py",
+      "Simlect-backend/Simlect-agent/app/services/llm_factory.py"
+    ]
+  },
+  {
+    "id": "E7",
+    "name": "退款服务端隔离",
+    "source": "Agent services/graph/supervisor/rag/memory",
+    "database": "agent_message/Redis/ES/knowledge_*",
+    "api": "/api/agent/* + MCP",
+    "frontend": "AgentChatItem/views/agent/AgentChatList.vue",
+    "tests": [
+      "test_agent_refund_safety"
+    ],
+    "runtime": "AUTOMATION_ONLY",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/services/refund_execution_policy.py",
+      "Simlect-backend/Simlect-agent/app/services/action_execute_service.py"
+    ]
+  },
+  {
+    "id": "E8",
+    "name": "商品来源准入",
+    "source": "Agent services/graph/supervisor/rag/memory",
+    "database": "agent_message/Redis/ES/knowledge_*",
+    "api": "/api/agent/* + MCP",
+    "frontend": "AgentChatItem/views/agent/AgentChatList.vue",
+    "tests": [
+      "test_quality_properties"
+    ],
+    "runtime": "AUTOMATION_ONLY",
+    "sourcePaths": [
+      "Simlect-backend/Simlect-agent/app/services/data_provenance.py",
+      "Simlect-backend/Simlect-agent/app/shopping/selection.py"
+    ]
+  }
+]

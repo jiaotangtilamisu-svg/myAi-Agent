@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "D1",
+    "turns": [
+      {
+        "text": "推荐1000以上的三星手机",
+        "min": "1000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "1000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "1000",
+        "max": null,
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "预算提高到5000",
+        "min": "1000",
+        "max": "5000",
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "不要三星，换成华为",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D2",
+    "turns": [
+      {
+        "text": "推荐1000以上的Samsung手机",
+        "min": "1000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "1000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "1000",
+        "max": null,
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "预算提高到5000",
+        "min": "1000",
+        "max": "5000",
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "不要三星，换成华为",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D3",
+    "turns": [
+      {
+        "text": "推荐1000以上的苹果手机",
+        "min": "1000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "1000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "1000",
+        "max": null,
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "预算提高到5000",
+        "min": "1000",
+        "max": "5000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "不要苹果，换成华为",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D4",
+    "turns": [
+      {
+        "text": "推荐1000以上的Apple手机",
+        "min": "1000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "1000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "1000",
+        "max": null,
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "预算提高到5000",
+        "min": "1000",
+        "max": "5000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "不要苹果，换成华为",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D5",
+    "turns": [
+      {
+        "text": "推荐1000以上的iPhone手机",
+        "min": "1000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "1000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "1000",
+        "max": null,
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "预算提高到5000",
+        "min": "1000",
+        "max": "5000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "不要苹果，换成华为",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D6",
+    "turns": [
+      {
+        "text": "推荐1000以上的华为手机",
+        "min": "1000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "1000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "1000",
+        "max": null,
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "预算提高到5000",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "不要华为，换成苹果",
+        "min": "1000",
+        "max": "5000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "1000",
+        "max": "5000",
+        "brand": "苹果",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D7",
+    "turns": [
+      {
+        "text": "推荐1000以上的Huawei手机",
+        "min": "1000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "1000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "1000",
+        "max": null,
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "预算提高到5000",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "不要华为，换成苹果",
+        "min": "1000",
+        "max": "5000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "1000",
+        "max": "5000",
+        "brand": "苹果",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D8",
+    "turns": [
+      {
+        "text": "推荐1000以上的小米手机",
+        "min": "1000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "1000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "1000",
+        "max": null,
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "预算提高到5000",
+        "min": "1000",
+        "max": "5000",
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "不要小米，换成华为",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D9",
+    "turns": [
+      {
+        "text": "推荐1000以上的Xiaomi手机",
+        "min": "1000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "1000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "1000",
+        "max": null,
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "预算提高到5000",
+        "min": "1000",
+        "max": "5000",
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "不要小米，换成华为",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D10",
+    "turns": [
+      {
+        "text": "推荐1000以上的荣耀手机",
+        "min": "1000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "1000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "1000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "预算提高到5000",
+        "min": "1000",
+        "max": "5000",
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "不要荣耀，换成华为",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D11",
+    "turns": [
+      {
+        "text": "推荐1000以上的Honor手机",
+        "min": "1000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "1000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "1000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "预算提高到5000",
+        "min": "1000",
+        "max": "5000",
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "不要荣耀，换成华为",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D12",
+    "turns": [
+      {
+        "text": "推荐1000以上的OPPO手机",
+        "min": "1000",
+        "max": null,
+        "brand": "OPPO",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "1000",
+        "max": null,
+        "brand": "OPPO",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "1000",
+        "max": null,
+        "brand": "OPPO",
+        "stock": true
+      },
+      {
+        "text": "预算提高到5000",
+        "min": "1000",
+        "max": "5000",
+        "brand": "OPPO",
+        "stock": true
+      },
+      {
+        "text": "不要OPPO，换成华为",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D13",
+    "turns": [
+      {
+        "text": "推荐1000以上的vivo手机",
+        "min": "1000",
+        "max": null,
+        "brand": "vivo",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "1000",
+        "max": null,
+        "brand": "vivo",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "1000",
+        "max": null,
+        "brand": "vivo",
+        "stock": true
+      },
+      {
+        "text": "预算提高到5000",
+        "min": "1000",
+        "max": "5000",
+        "brand": "vivo",
+        "stock": true
+      },
+      {
+        "text": "不要vivo，换成华为",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "1000",
+        "max": "5000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D14",
+    "turns": [
+      {
+        "text": "推荐2000以上的三星手机",
+        "min": "2000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "2000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "2000",
+        "max": null,
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "预算提高到6000",
+        "min": "2000",
+        "max": "6000",
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "不要三星，换成华为",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D15",
+    "turns": [
+      {
+        "text": "推荐2000以上的Samsung手机",
+        "min": "2000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "2000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "2000",
+        "max": null,
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "预算提高到6000",
+        "min": "2000",
+        "max": "6000",
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "不要三星，换成华为",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D16",
+    "turns": [
+      {
+        "text": "推荐2000以上的苹果手机",
+        "min": "2000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "2000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "2000",
+        "max": null,
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "预算提高到6000",
+        "min": "2000",
+        "max": "6000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "不要苹果，换成华为",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D17",
+    "turns": [
+      {
+        "text": "推荐2000以上的Apple手机",
+        "min": "2000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "2000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "2000",
+        "max": null,
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "预算提高到6000",
+        "min": "2000",
+        "max": "6000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "不要苹果，换成华为",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D18",
+    "turns": [
+      {
+        "text": "推荐2000以上的iPhone手机",
+        "min": "2000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "2000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "2000",
+        "max": null,
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "预算提高到6000",
+        "min": "2000",
+        "max": "6000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "不要苹果，换成华为",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D19",
+    "turns": [
+      {
+        "text": "推荐2000以上的华为手机",
+        "min": "2000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "2000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "2000",
+        "max": null,
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "预算提高到6000",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "不要华为，换成苹果",
+        "min": "2000",
+        "max": "6000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "2000",
+        "max": "6000",
+        "brand": "苹果",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D20",
+    "turns": [
+      {
+        "text": "推荐2000以上的Huawei手机",
+        "min": "2000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "2000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "2000",
+        "max": null,
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "预算提高到6000",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "不要华为，换成苹果",
+        "min": "2000",
+        "max": "6000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "2000",
+        "max": "6000",
+        "brand": "苹果",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D21",
+    "turns": [
+      {
+        "text": "推荐2000以上的小米手机",
+        "min": "2000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "2000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "2000",
+        "max": null,
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "预算提高到6000",
+        "min": "2000",
+        "max": "6000",
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "不要小米，换成华为",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D22",
+    "turns": [
+      {
+        "text": "推荐2000以上的Xiaomi手机",
+        "min": "2000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "2000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "2000",
+        "max": null,
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "预算提高到6000",
+        "min": "2000",
+        "max": "6000",
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "不要小米，换成华为",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D23",
+    "turns": [
+      {
+        "text": "推荐2000以上的荣耀手机",
+        "min": "2000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "2000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "2000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "预算提高到6000",
+        "min": "2000",
+        "max": "6000",
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "不要荣耀，换成华为",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D24",
+    "turns": [
+      {
+        "text": "推荐2000以上的Honor手机",
+        "min": "2000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "2000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "2000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "预算提高到6000",
+        "min": "2000",
+        "max": "6000",
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "不要荣耀，换成华为",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D25",
+    "turns": [
+      {
+        "text": "推荐2000以上的OPPO手机",
+        "min": "2000",
+        "max": null,
+        "brand": "OPPO",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "2000",
+        "max": null,
+        "brand": "OPPO",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "2000",
+        "max": null,
+        "brand": "OPPO",
+        "stock": true
+      },
+      {
+        "text": "预算提高到6000",
+        "min": "2000",
+        "max": "6000",
+        "brand": "OPPO",
+        "stock": true
+      },
+      {
+        "text": "不要OPPO，换成华为",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D26",
+    "turns": [
+      {
+        "text": "推荐2000以上的vivo手机",
+        "min": "2000",
+        "max": null,
+        "brand": "vivo",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "2000",
+        "max": null,
+        "brand": "vivo",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "2000",
+        "max": null,
+        "brand": "vivo",
+        "stock": true
+      },
+      {
+        "text": "预算提高到6000",
+        "min": "2000",
+        "max": "6000",
+        "brand": "vivo",
+        "stock": true
+      },
+      {
+        "text": "不要vivo，换成华为",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "2000",
+        "max": "6000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D27",
+    "turns": [
+      {
+        "text": "推荐3000以上的三星手机",
+        "min": "3000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "3000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "3000",
+        "max": null,
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "预算提高到7000",
+        "min": "3000",
+        "max": "7000",
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "不要三星，换成华为",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D28",
+    "turns": [
+      {
+        "text": "推荐3000以上的Samsung手机",
+        "min": "3000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "3000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "3000",
+        "max": null,
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "预算提高到7000",
+        "min": "3000",
+        "max": "7000",
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "不要三星，换成华为",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D29",
+    "turns": [
+      {
+        "text": "推荐3000以上的苹果手机",
+        "min": "3000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "3000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "3000",
+        "max": null,
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "预算提高到7000",
+        "min": "3000",
+        "max": "7000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "不要苹果，换成华为",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D30",
+    "turns": [
+      {
+        "text": "推荐3000以上的Apple手机",
+        "min": "3000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "3000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "3000",
+        "max": null,
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "预算提高到7000",
+        "min": "3000",
+        "max": "7000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "不要苹果，换成华为",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D31",
+    "turns": [
+      {
+        "text": "推荐3000以上的iPhone手机",
+        "min": "3000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "3000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "3000",
+        "max": null,
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "预算提高到7000",
+        "min": "3000",
+        "max": "7000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "不要苹果，换成华为",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D32",
+    "turns": [
+      {
+        "text": "推荐3000以上的华为手机",
+        "min": "3000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "3000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "3000",
+        "max": null,
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "预算提高到7000",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "不要华为，换成苹果",
+        "min": "3000",
+        "max": "7000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "3000",
+        "max": "7000",
+        "brand": "苹果",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D33",
+    "turns": [
+      {
+        "text": "推荐3000以上的Huawei手机",
+        "min": "3000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "3000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "3000",
+        "max": null,
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "预算提高到7000",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "不要华为，换成苹果",
+        "min": "3000",
+        "max": "7000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "3000",
+        "max": "7000",
+        "brand": "苹果",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D34",
+    "turns": [
+      {
+        "text": "推荐3000以上的小米手机",
+        "min": "3000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "3000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "3000",
+        "max": null,
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "预算提高到7000",
+        "min": "3000",
+        "max": "7000",
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "不要小米，换成华为",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D35",
+    "turns": [
+      {
+        "text": "推荐3000以上的Xiaomi手机",
+        "min": "3000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "3000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "3000",
+        "max": null,
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "预算提高到7000",
+        "min": "3000",
+        "max": "7000",
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "不要小米，换成华为",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D36",
+    "turns": [
+      {
+        "text": "推荐3000以上的荣耀手机",
+        "min": "3000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "3000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "3000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "预算提高到7000",
+        "min": "3000",
+        "max": "7000",
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "不要荣耀，换成华为",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D37",
+    "turns": [
+      {
+        "text": "推荐3000以上的Honor手机",
+        "min": "3000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "3000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "3000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "预算提高到7000",
+        "min": "3000",
+        "max": "7000",
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "不要荣耀，换成华为",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D38",
+    "turns": [
+      {
+        "text": "推荐3000以上的OPPO手机",
+        "min": "3000",
+        "max": null,
+        "brand": "OPPO",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "3000",
+        "max": null,
+        "brand": "OPPO",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "3000",
+        "max": null,
+        "brand": "OPPO",
+        "stock": true
+      },
+      {
+        "text": "预算提高到7000",
+        "min": "3000",
+        "max": "7000",
+        "brand": "OPPO",
+        "stock": true
+      },
+      {
+        "text": "不要OPPO，换成华为",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D39",
+    "turns": [
+      {
+        "text": "推荐3000以上的vivo手机",
+        "min": "3000",
+        "max": null,
+        "brand": "vivo",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "3000",
+        "max": null,
+        "brand": "vivo",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "3000",
+        "max": null,
+        "brand": "vivo",
+        "stock": true
+      },
+      {
+        "text": "预算提高到7000",
+        "min": "3000",
+        "max": "7000",
+        "brand": "vivo",
+        "stock": true
+      },
+      {
+        "text": "不要vivo，换成华为",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "3000",
+        "max": "7000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D40",
+    "turns": [
+      {
+        "text": "推荐4000以上的三星手机",
+        "min": "4000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "4000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "4000",
+        "max": null,
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "预算提高到8000",
+        "min": "4000",
+        "max": "8000",
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "不要三星，换成华为",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D41",
+    "turns": [
+      {
+        "text": "推荐4000以上的Samsung手机",
+        "min": "4000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "4000",
+        "max": null,
+        "brand": "三星",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "4000",
+        "max": null,
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "预算提高到8000",
+        "min": "4000",
+        "max": "8000",
+        "brand": "三星",
+        "stock": true
+      },
+      {
+        "text": "不要三星，换成华为",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D42",
+    "turns": [
+      {
+        "text": "推荐4000以上的苹果手机",
+        "min": "4000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "4000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "4000",
+        "max": null,
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "预算提高到8000",
+        "min": "4000",
+        "max": "8000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "不要苹果，换成华为",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D43",
+    "turns": [
+      {
+        "text": "推荐4000以上的Apple手机",
+        "min": "4000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "4000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "4000",
+        "max": null,
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "预算提高到8000",
+        "min": "4000",
+        "max": "8000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "不要苹果，换成华为",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D44",
+    "turns": [
+      {
+        "text": "推荐4000以上的iPhone手机",
+        "min": "4000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "4000",
+        "max": null,
+        "brand": "苹果",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "4000",
+        "max": null,
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "预算提高到8000",
+        "min": "4000",
+        "max": "8000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "不要苹果，换成华为",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D45",
+    "turns": [
+      {
+        "text": "推荐4000以上的华为手机",
+        "min": "4000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "4000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "4000",
+        "max": null,
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "预算提高到8000",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "不要华为，换成苹果",
+        "min": "4000",
+        "max": "8000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "4000",
+        "max": "8000",
+        "brand": "苹果",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D46",
+    "turns": [
+      {
+        "text": "推荐4000以上的Huawei手机",
+        "min": "4000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "4000",
+        "max": null,
+        "brand": "华为",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "4000",
+        "max": null,
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "预算提高到8000",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "不要华为，换成苹果",
+        "min": "4000",
+        "max": "8000",
+        "brand": "苹果",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "4000",
+        "max": "8000",
+        "brand": "苹果",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D47",
+    "turns": [
+      {
+        "text": "推荐4000以上的小米手机",
+        "min": "4000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "4000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "4000",
+        "max": null,
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "预算提高到8000",
+        "min": "4000",
+        "max": "8000",
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "不要小米，换成华为",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D48",
+    "turns": [
+      {
+        "text": "推荐4000以上的Xiaomi手机",
+        "min": "4000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "4000",
+        "max": null,
+        "brand": "小米",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "4000",
+        "max": null,
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "预算提高到8000",
+        "min": "4000",
+        "max": "8000",
+        "brand": "小米",
+        "stock": true
+      },
+      {
+        "text": "不要小米，换成华为",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D49",
+    "turns": [
+      {
+        "text": "推荐4000以上的荣耀手机",
+        "min": "4000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "4000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "4000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "预算提高到8000",
+        "min": "4000",
+        "max": "8000",
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "不要荣耀，换成华为",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "D50",
+    "turns": [
+      {
+        "text": "推荐4000以上的Honor手机",
+        "min": "4000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "最好有512GB",
+        "min": "4000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": false
+      },
+      {
+        "text": "只推荐有现货的商品",
+        "min": "4000",
+        "max": null,
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "预算提高到8000",
+        "min": "4000",
+        "max": "8000",
+        "brand": "荣耀",
+        "stock": true
+      },
+      {
+        "text": "不要荣耀，换成华为",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      },
+      {
+        "text": "再推荐三款",
+        "min": "4000",
+        "max": "8000",
+        "brand": "华为",
+        "stock": true
+      }
+    ]
+  }
+]

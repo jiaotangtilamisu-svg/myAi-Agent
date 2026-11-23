@@ -1,0 +1,1874 @@
+[
+  {
+    "text": "帮我推荐5000以上的三星手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "帮我找价格不低于5000元的三星手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "五千块往上的三星手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "推荐5000到8000元的三星手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐5k到8k的三星手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐预算8000元以内的三星手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "找五千元以下的三星手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": null,
+    "max": "5000"
+  },
+  {
+    "text": "推荐三星手机，最多花8000元",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "帮我推荐5000以上的Samsung手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "帮我找价格不低于5000元的Samsung手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "五千块往上的Samsung手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "推荐5000到8000元的Samsung手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐5k到8k的Samsung手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐预算8000元以内的Samsung手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "找五千元以下的Samsung手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": null,
+    "max": "5000"
+  },
+  {
+    "text": "推荐Samsung手机，最多花8000元",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "三星"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "帮我推荐5000以上的苹果手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "帮我找价格不低于5000元的苹果手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "五千块往上的苹果手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "推荐5000到8000元的苹果手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐5k到8k的苹果手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐预算8000元以内的苹果手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "找五千元以下的苹果手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": null,
+    "max": "5000"
+  },
+  {
+    "text": "推荐苹果手机，最多花8000元",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "帮我推荐5000以上的Apple手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "帮我找价格不低于5000元的Apple手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "五千块往上的Apple手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "推荐5000到8000元的Apple手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐5k到8k的Apple手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐预算8000元以内的Apple手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "找五千元以下的Apple手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": null,
+    "max": "5000"
+  },
+  {
+    "text": "推荐Apple手机，最多花8000元",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "帮我推荐5000以上的iPhone手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "帮我找价格不低于5000元的iPhone手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "五千块往上的iPhone手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "推荐5000到8000元的iPhone手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐5k到8k的iPhone手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐预算8000元以内的iPhone手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "找五千元以下的iPhone手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": null,
+    "max": "5000"
+  },
+  {
+    "text": "推荐iPhone手机，最多花8000元",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "苹果"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "帮我推荐5000以上的华为手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "帮我找价格不低于5000元的华为手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "五千块往上的华为手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "推荐5000到8000元的华为手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐5k到8k的华为手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐预算8000元以内的华为手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "找五千元以下的华为手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": null,
+    "max": "5000"
+  },
+  {
+    "text": "推荐华为手机，最多花8000元",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "帮我推荐5000以上的Huawei手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "帮我找价格不低于5000元的Huawei手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "五千块往上的Huawei手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "推荐5000到8000元的Huawei手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐5k到8k的Huawei手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐预算8000元以内的Huawei手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "找五千元以下的Huawei手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": null,
+    "max": "5000"
+  },
+  {
+    "text": "推荐Huawei手机，最多花8000元",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "华为"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "帮我推荐5000以上的小米手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "帮我找价格不低于5000元的小米手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "五千块往上的小米手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "推荐5000到8000元的小米手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐5k到8k的小米手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐预算8000元以内的小米手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "找五千元以下的小米手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": null,
+    "max": "5000"
+  },
+  {
+    "text": "推荐小米手机，最多花8000元",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "帮我推荐5000以上的Xiaomi手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "帮我找价格不低于5000元的Xiaomi手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "五千块往上的Xiaomi手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "推荐5000到8000元的Xiaomi手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐5k到8k的Xiaomi手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐预算8000元以内的Xiaomi手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "找五千元以下的Xiaomi手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": null,
+    "max": "5000"
+  },
+  {
+    "text": "推荐Xiaomi手机，最多花8000元",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "小米"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "帮我推荐5000以上的荣耀手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "帮我找价格不低于5000元的荣耀手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "五千块往上的荣耀手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "推荐5000到8000元的荣耀手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐5k到8k的荣耀手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐预算8000元以内的荣耀手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "找五千元以下的荣耀手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": null,
+    "max": "5000"
+  },
+  {
+    "text": "推荐荣耀手机，最多花8000元",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "帮我推荐5000以上的Honor手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "帮我找价格不低于5000元的Honor手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "五千块往上的Honor手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "推荐5000到8000元的Honor手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐5k到8k的Honor手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐预算8000元以内的Honor手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "找五千元以下的Honor手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": null,
+    "max": "5000"
+  },
+  {
+    "text": "推荐Honor手机，最多花8000元",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "荣耀"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "帮我推荐5000以上的OPPO手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "OPPO"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "帮我找价格不低于5000元的OPPO手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "OPPO"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "五千块往上的OPPO手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "OPPO"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "推荐5000到8000元的OPPO手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "OPPO"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐5k到8k的OPPO手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "OPPO"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐预算8000元以内的OPPO手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "OPPO"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "找五千元以下的OPPO手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "OPPO"
+    ],
+    "min": null,
+    "max": "5000"
+  },
+  {
+    "text": "推荐OPPO手机，最多花8000元",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "OPPO"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "帮我推荐5000以上的vivo手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "vivo"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "帮我找价格不低于5000元的vivo手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "vivo"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "五千块往上的vivo手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "vivo"
+    ],
+    "min": "5000",
+    "max": null
+  },
+  {
+    "text": "推荐5000到8000元的vivo手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "vivo"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐5k到8k的vivo手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "vivo"
+    ],
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "text": "推荐预算8000元以内的vivo手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "vivo"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "找五千元以下的vivo手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "vivo"
+    ],
+    "min": null,
+    "max": "5000"
+  },
+  {
+    "text": "推荐vivo手机，最多花8000元",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [
+      "vivo"
+    ],
+    "min": null,
+    "max": "8000"
+  },
+  {
+    "text": "帮我推荐20以内的手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐预算20元以内的手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "20块以下的手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐20元以内的手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "想买手机，不超过20元",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "推荐手机，预算20块",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "搜索手机，最多20元",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "给我推荐２０元以内的手机",
+    "kind": "shopping",
+    "category": "手机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐20以内的电脑",
+    "kind": "shopping",
+    "category": "电脑",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐预算20元以内的电脑",
+    "kind": "shopping",
+    "category": "电脑",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "20块以下的电脑",
+    "kind": "shopping",
+    "category": "电脑",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐20元以内的电脑",
+    "kind": "shopping",
+    "category": "电脑",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "想买电脑，不超过20元",
+    "kind": "shopping",
+    "category": "电脑",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "推荐电脑，预算20块",
+    "kind": "shopping",
+    "category": "电脑",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "搜索电脑，最多20元",
+    "kind": "shopping",
+    "category": "电脑",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "给我推荐２０元以内的电脑",
+    "kind": "shopping",
+    "category": "电脑",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐20以内的笔记本",
+    "kind": "shopping",
+    "category": "笔记本",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐预算20元以内的笔记本",
+    "kind": "shopping",
+    "category": "笔记本",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "20块以下的笔记本",
+    "kind": "shopping",
+    "category": "笔记本",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐20元以内的笔记本",
+    "kind": "shopping",
+    "category": "笔记本",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "想买笔记本，不超过20元",
+    "kind": "shopping",
+    "category": "笔记本",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "推荐笔记本，预算20块",
+    "kind": "shopping",
+    "category": "笔记本",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "搜索笔记本，最多20元",
+    "kind": "shopping",
+    "category": "笔记本",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "给我推荐２０元以内的笔记本",
+    "kind": "shopping",
+    "category": "笔记本",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐20以内的耳机",
+    "kind": "shopping",
+    "category": "耳机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐预算20元以内的耳机",
+    "kind": "shopping",
+    "category": "耳机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "20块以下的耳机",
+    "kind": "shopping",
+    "category": "耳机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐20元以内的耳机",
+    "kind": "shopping",
+    "category": "耳机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "想买耳机，不超过20元",
+    "kind": "shopping",
+    "category": "耳机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "推荐耳机，预算20块",
+    "kind": "shopping",
+    "category": "耳机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "搜索耳机，最多20元",
+    "kind": "shopping",
+    "category": "耳机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "给我推荐２０元以内的耳机",
+    "kind": "shopping",
+    "category": "耳机",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐20以内的茶杯",
+    "kind": "shopping",
+    "category": "茶杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐预算20元以内的茶杯",
+    "kind": "shopping",
+    "category": "茶杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "20块以下的茶杯",
+    "kind": "shopping",
+    "category": "茶杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐20元以内的茶杯",
+    "kind": "shopping",
+    "category": "茶杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "想买茶杯，不超过20元",
+    "kind": "shopping",
+    "category": "茶杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "推荐茶杯，预算20块",
+    "kind": "shopping",
+    "category": "茶杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "搜索茶杯，最多20元",
+    "kind": "shopping",
+    "category": "茶杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "给我推荐２０元以内的茶杯",
+    "kind": "shopping",
+    "category": "茶杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐20以内的保温杯",
+    "kind": "shopping",
+    "category": "保温杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐预算20元以内的保温杯",
+    "kind": "shopping",
+    "category": "保温杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "20块以下的保温杯",
+    "kind": "shopping",
+    "category": "保温杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐20元以内的保温杯",
+    "kind": "shopping",
+    "category": "保温杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "想买保温杯，不超过20元",
+    "kind": "shopping",
+    "category": "保温杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "推荐保温杯，预算20块",
+    "kind": "shopping",
+    "category": "保温杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "搜索保温杯，最多20元",
+    "kind": "shopping",
+    "category": "保温杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "给我推荐２０元以内的保温杯",
+    "kind": "shopping",
+    "category": "保温杯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐20以内的键盘",
+    "kind": "shopping",
+    "category": "键盘",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐预算20元以内的键盘",
+    "kind": "shopping",
+    "category": "键盘",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "20块以下的键盘",
+    "kind": "shopping",
+    "category": "键盘",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐20元以内的键盘",
+    "kind": "shopping",
+    "category": "键盘",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "想买键盘，不超过20元",
+    "kind": "shopping",
+    "category": "键盘",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "推荐键盘，预算20块",
+    "kind": "shopping",
+    "category": "键盘",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "搜索键盘，最多20元",
+    "kind": "shopping",
+    "category": "键盘",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "给我推荐２０元以内的键盘",
+    "kind": "shopping",
+    "category": "键盘",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐20以内的台灯",
+    "kind": "shopping",
+    "category": "台灯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐预算20元以内的台灯",
+    "kind": "shopping",
+    "category": "台灯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "20块以下的台灯",
+    "kind": "shopping",
+    "category": "台灯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "帮我推荐20元以内的台灯",
+    "kind": "shopping",
+    "category": "台灯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "想买台灯，不超过20元",
+    "kind": "shopping",
+    "category": "台灯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "推荐台灯，预算20块",
+    "kind": "shopping",
+    "category": "台灯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "搜索台灯，最多20元",
+    "kind": "shopping",
+    "category": "台灯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "给我推荐２０元以内的台灯",
+    "kind": "shopping",
+    "category": "台灯",
+    "brands": [],
+    "min": null,
+    "max": "20"
+  },
+  {
+    "text": "我要退货",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "你好，我要退货。",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "麻烦我要退货！",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "请我要退货？",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "我要退这个商品",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "你好，我要退这个商品。",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "麻烦我要退这个商品！",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "请我要退这个商品？",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "我要退这个订单",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "你好，我要退这个订单。",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "麻烦我要退这个订单！",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "请我要退这个订单？",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "我想把这个东西退了",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "你好，我想把这个东西退了。",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "麻烦我想把这个东西退了！",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "请我想把这个东西退了？",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "我买错了，帮我退掉",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "你好，我买错了，帮我退掉。",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "麻烦我买错了，帮我退掉！",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "请我买错了，帮我退掉？",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "商品不合适，想退货",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "你好，商品不合适，想退货。",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "麻烦商品不合适，想退货！",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "请商品不合适，想退货？",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "商品有质量问题，我要退货",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "你好，商品有质量问题，我要退货。",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "麻烦商品有质量问题，我要退货！",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "请商品有质量问题，我要退货？",
+    "kind": "aftersales",
+    "operation": "RETURN"
+  },
+  {
+    "text": "我要退款",
+    "kind": "aftersales",
+    "operation": "REFUND"
+  },
+  {
+    "text": "你好，我要退款。",
+    "kind": "aftersales",
+    "operation": "REFUND"
+  },
+  {
+    "text": "麻烦我要退款！",
+    "kind": "aftersales",
+    "operation": "REFUND"
+  },
+  {
+    "text": "请我要退款？",
+    "kind": "aftersales",
+    "operation": "REFUND"
+  },
+  {
+    "text": "我要换货",
+    "kind": "aftersales",
+    "operation": "EXCHANGE"
+  },
+  {
+    "text": "你好，我要换货。",
+    "kind": "aftersales",
+    "operation": "EXCHANGE"
+  },
+  {
+    "text": "麻烦我要换货！",
+    "kind": "aftersales",
+    "operation": "EXCHANGE"
+  },
+  {
+    "text": "请我要换货？",
+    "kind": "aftersales",
+    "operation": "EXCHANGE"
+  },
+  {
+    "text": "我要取消订单",
+    "kind": "aftersales",
+    "operation": "CANCEL_ORDER"
+  },
+  {
+    "text": "你好，我要取消订单。",
+    "kind": "aftersales",
+    "operation": "CANCEL_ORDER"
+  },
+  {
+    "text": "麻烦我要取消订单！",
+    "kind": "aftersales",
+    "operation": "CANCEL_ORDER"
+  },
+  {
+    "text": "请我要取消订单？",
+    "kind": "aftersales",
+    "operation": "CANCEL_ORDER"
+  },
+  {
+    "text": "我要取消申请",
+    "kind": "aftersales",
+    "operation": "CANCEL_APPLICATION"
+  },
+  {
+    "text": "你好，我要取消申请。",
+    "kind": "aftersales",
+    "operation": "CANCEL_APPLICATION"
+  },
+  {
+    "text": "麻烦我要取消申请！",
+    "kind": "aftersales",
+    "operation": "CANCEL_APPLICATION"
+  },
+  {
+    "text": "请我要取消申请？",
+    "kind": "aftersales",
+    "operation": "CANCEL_APPLICATION"
+  },
+  {
+    "text": "我要查询退货进度",
+    "kind": "aftersales",
+    "operation": "AFTERSALES_PROGRESS"
+  },
+  {
+    "text": "你好，我要查询退货进度。",
+    "kind": "aftersales",
+    "operation": "AFTERSALES_PROGRESS"
+  },
+  {
+    "text": "麻烦我要查询退货进度！",
+    "kind": "aftersales",
+    "operation": "AFTERSALES_PROGRESS"
+  },
+  {
+    "text": "请我要查询退货进度？",
+    "kind": "aftersales",
+    "operation": "AFTERSALES_PROGRESS"
+  },
+  {
+    "text": "查询我的订单列表",
+    "kind": "aftersales",
+    "operation": "ORDER_QUERY"
+  },
+  {
+    "text": "你好，查询我的订单列表。",
+    "kind": "aftersales",
+    "operation": "ORDER_QUERY"
+  },
+  {
+    "text": "麻烦查询我的订单列表！",
+    "kind": "aftersales",
+    "operation": "ORDER_QUERY"
+  },
+  {
+    "text": "请查询我的订单列表？",
+    "kind": "aftersales",
+    "operation": "ORDER_QUERY"
+  },
+  {
+    "text": "查询订单详情",
+    "kind": "aftersales",
+    "operation": "ORDER_DETAIL"
+  },
+  {
+    "text": "你好，查询订单详情。",
+    "kind": "aftersales",
+    "operation": "ORDER_DETAIL"
+  },
+  {
+    "text": "麻烦查询订单详情！",
+    "kind": "aftersales",
+    "operation": "ORDER_DETAIL"
+  },
+  {
+    "text": "请查询订单详情？",
+    "kind": "aftersales",
+    "operation": "ORDER_DETAIL"
+  },
+  {
+    "text": "帮我查物流",
+    "kind": "aftersales",
+    "operation": "LOGISTICS_QUERY"
+  },
+  {
+    "text": "你好，帮我查物流。",
+    "kind": "aftersales",
+    "operation": "LOGISTICS_QUERY"
+  },
+  {
+    "text": "麻烦帮我查物流！",
+    "kind": "aftersales",
+    "operation": "LOGISTICS_QUERY"
+  },
+  {
+    "text": "请帮我查物流？",
+    "kind": "aftersales",
+    "operation": "LOGISTICS_QUERY"
+  },
+  {
+    "text": "查询售后政策",
+    "kind": "aftersales",
+    "operation": "POLICY_QUERY"
+  },
+  {
+    "text": "你好，查询售后政策。",
+    "kind": "aftersales",
+    "operation": "POLICY_QUERY"
+  },
+  {
+    "text": "麻烦查询售后政策！",
+    "kind": "aftersales",
+    "operation": "POLICY_QUERY"
+  },
+  {
+    "text": "请查询售后政策？",
+    "kind": "aftersales",
+    "operation": "POLICY_QUERY"
+  }
+]

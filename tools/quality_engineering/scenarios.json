@@ -1,0 +1,577 @@
+{
+  "seed": 3101,
+  "budgets": [
+    {
+      "id": "budget-001",
+      "text": "推荐预算0元以内的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "0"
+      }
+    },
+    {
+      "id": "budget-002",
+      "text": "推荐0以内的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "0"
+      }
+    },
+    {
+      "id": "budget-003",
+      "text": "不超过0块钱的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "0"
+      }
+    },
+    {
+      "id": "budget-004",
+      "text": "推荐预算1元以内的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "1"
+      }
+    },
+    {
+      "id": "budget-005",
+      "text": "推荐1以内的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "1"
+      }
+    },
+    {
+      "id": "budget-006",
+      "text": "不超过1块钱的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "1"
+      }
+    },
+    {
+      "id": "budget-007",
+      "text": "推荐预算20元以内的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "20"
+      }
+    },
+    {
+      "id": "budget-008",
+      "text": "推荐20以内的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "20"
+      }
+    },
+    {
+      "id": "budget-009",
+      "text": "不超过20块钱的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "20"
+      }
+    },
+    {
+      "id": "budget-010",
+      "text": "推荐预算199元以内的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "199"
+      }
+    },
+    {
+      "id": "budget-011",
+      "text": "推荐199以内的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "199"
+      }
+    },
+    {
+      "id": "budget-012",
+      "text": "不超过199块钱的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "199"
+      }
+    },
+    {
+      "id": "budget-013",
+      "text": "推荐预算200元以内的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "200"
+      }
+    },
+    {
+      "id": "budget-014",
+      "text": "推荐200以内的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "200"
+      }
+    },
+    {
+      "id": "budget-015",
+      "text": "不超过200块钱的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "200"
+      }
+    },
+    {
+      "id": "budget-016",
+      "text": "推荐预算300元以内的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "300"
+      }
+    },
+    {
+      "id": "budget-017",
+      "text": "推荐300以内的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "300"
+      }
+    },
+    {
+      "id": "budget-018",
+      "text": "不超过300块钱的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "300"
+      }
+    },
+    {
+      "id": "budget-019",
+      "text": "推荐预算3000元以内的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "3000"
+      }
+    },
+    {
+      "id": "budget-020",
+      "text": "推荐3000以内的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "3000"
+      }
+    },
+    {
+      "id": "budget-021",
+      "text": "不超过3000块钱的手机",
+      "expected": {
+        "category": "手机",
+        "budgetMax": "3000"
+      }
+    },
+    {
+      "id": "budget-022",
+      "text": "推荐预算0元以内的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "0"
+      }
+    },
+    {
+      "id": "budget-023",
+      "text": "推荐0以内的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "0"
+      }
+    },
+    {
+      "id": "budget-024",
+      "text": "不超过0块钱的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "0"
+      }
+    },
+    {
+      "id": "budget-025",
+      "text": "推荐预算1元以内的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "1"
+      }
+    },
+    {
+      "id": "budget-026",
+      "text": "推荐1以内的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "1"
+      }
+    },
+    {
+      "id": "budget-027",
+      "text": "不超过1块钱的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "1"
+      }
+    },
+    {
+      "id": "budget-028",
+      "text": "推荐预算20元以内的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "20"
+      }
+    },
+    {
+      "id": "budget-029",
+      "text": "推荐20以内的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "20"
+      }
+    },
+    {
+      "id": "budget-030",
+      "text": "不超过20块钱的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "20"
+      }
+    },
+    {
+      "id": "budget-031",
+      "text": "推荐预算199元以内的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "199"
+      }
+    },
+    {
+      "id": "budget-032",
+      "text": "推荐199以内的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "199"
+      }
+    },
+    {
+      "id": "budget-033",
+      "text": "不超过199块钱的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "199"
+      }
+    },
+    {
+      "id": "budget-034",
+      "text": "推荐预算200元以内的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "200"
+      }
+    },
+    {
+      "id": "budget-035",
+      "text": "推荐200以内的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "200"
+      }
+    },
+    {
+      "id": "budget-036",
+      "text": "不超过200块钱的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "200"
+      }
+    },
+    {
+      "id": "budget-037",
+      "text": "推荐预算300元以内的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "300"
+      }
+    },
+    {
+      "id": "budget-038",
+      "text": "推荐300以内的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "300"
+      }
+    },
+    {
+      "id": "budget-039",
+      "text": "不超过300块钱的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "300"
+      }
+    },
+    {
+      "id": "budget-040",
+      "text": "推荐预算3000元以内的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "3000"
+      }
+    },
+    {
+      "id": "budget-041",
+      "text": "推荐3000以内的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "3000"
+      }
+    },
+    {
+      "id": "budget-042",
+      "text": "不超过3000块钱的耳机",
+      "expected": {
+        "category": "耳机",
+        "budgetMax": "3000"
+      }
+    },
+    {
+      "id": "budget-043",
+      "text": "推荐预算0元以内的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "0"
+      }
+    },
+    {
+      "id": "budget-044",
+      "text": "推荐0以内的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "0"
+      }
+    },
+    {
+      "id": "budget-045",
+      "text": "不超过0块钱的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "0"
+      }
+    },
+    {
+      "id": "budget-046",
+      "text": "推荐预算1元以内的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "1"
+      }
+    },
+    {
+      "id": "budget-047",
+      "text": "推荐1以内的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "1"
+      }
+    },
+    {
+      "id": "budget-048",
+      "text": "不超过1块钱的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "1"
+      }
+    },
+    {
+      "id": "budget-049",
+      "text": "推荐预算20元以内的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "20"
+      }
+    },
+    {
+      "id": "budget-050",
+      "text": "推荐20以内的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "20"
+      }
+    },
+    {
+      "id": "budget-051",
+      "text": "不超过20块钱的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "20"
+      }
+    },
+    {
+      "id": "budget-052",
+      "text": "推荐预算199元以内的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "199"
+      }
+    },
+    {
+      "id": "budget-053",
+      "text": "推荐199以内的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "199"
+      }
+    },
+    {
+      "id": "budget-054",
+      "text": "不超过199块钱的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "199"
+      }
+    },
+    {
+      "id": "budget-055",
+      "text": "推荐预算200元以内的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "200"
+      }
+    },
+    {
+      "id": "budget-056",
+      "text": "推荐200以内的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "200"
+      }
+    },
+    {
+      "id": "budget-057",
+      "text": "不超过200块钱的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "200"
+      }
+    },
+    {
+      "id": "budget-058",
+      "text": "推荐预算300元以内的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "300"
+      }
+    },
+    {
+      "id": "budget-059",
+      "text": "推荐300以内的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "300"
+      }
+    },
+    {
+      "id": "budget-060",
+      "text": "不超过300块钱的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "300"
+      }
+    },
+    {
+      "id": "budget-061",
+      "text": "推荐预算3000元以内的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "3000"
+      }
+    },
+    {
+      "id": "budget-062",
+      "text": "推荐3000以内的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "3000"
+      }
+    },
+    {
+      "id": "budget-063",
+      "text": "不超过3000块钱的茶杯",
+      "expected": {
+        "category": "茶杯",
+        "budgetMax": "3000"
+      }
+    },
+    {
+      "id": "budget-064",
+      "text": "100到200元的耳机",
+      "expected": {
+        "budgetMin": "100",
+        "budgetMax": "200"
+      }
+    },
+    {
+      "id": "budget-065",
+      "text": "预算1k以内的手机",
+      "expected": {
+        "budgetMin": null,
+        "budgetMax": "1000"
+      }
+    },
+    {
+      "id": "budget-066",
+      "text": "推荐三千以内的手机",
+      "expected": {
+        "budgetMin": null,
+        "budgetMax": "3000"
+      }
+    },
+    {
+      "id": "budget-067",
+      "text": "20块钱以下有什么杯子",
+      "expected": {
+        "budgetMin": null,
+        "budgetMax": "20"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "route-order",
+      "text": "查询我的订单",
+      "agents": [
+        "aftersales"
+      ]
+    },
+    {
+      "id": "route-shopping",
+      "text": "推荐手机",
+      "agents": [
+        "shopping"
+      ]
+    },
+    {
+      "id": "route-composite",
+      "text": "查询物流，另外推荐耳机",
+      "agents": [
+        "aftersales",
+        "shopping"
+      ]
+    },
+    {
+      "id": "route-policy",
+      "text": "如何换货，请查询售后政策",
+      "agents": [
+        "aftersales"
+      ]
+    },
+    {
+      "id": "route-unclear",
+      "text": "帮帮我",
+      "agents": []
+    }
+  ]
+}

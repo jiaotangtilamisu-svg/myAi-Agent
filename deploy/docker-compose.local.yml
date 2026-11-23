@@ -1,0 +1,28 @@
+# Layer over the original compose; isolate from existing host MySQL/Redis.
+services:
+  mysql:
+    command: !override
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_general_ci
+      - --default-authentication-plugin=caching_sha2_password
+      - --innodb_buffer_pool_size=256M
+      - --max_connections=150
+    mem_limit: 1g
+    ports: !override
+      - "127.0.0.1:13306:3306"
+  redis:
+    ports: !override
+      - "127.0.0.1:16379:6379"
+  nacos:
+    environment:
+      JVM_XMS: 256m
+      JVM_XMX: 512m
+    mem_limit: 1g
+  elasticsearch:
+    environment:
+      ES_JAVA_OPTS: -Xms512m -Xmx768m
+    mem_limit: 1536m
+  sentinel:
+    environment:
+      JAVA_OPT_EXT: "-Xms128m -Xmx256m -Dserver.port=8858 -Dcsp.sentinel.dashboard.server=localhost:8858"
+    mem_limit: 512m

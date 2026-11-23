@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "sourceName": "<authorized supplier name>",
+  "documentationUrl": "<official HTTPS contract URL>",
+  "authorizationReference": "<operator-reviewed authorization reference>",
+  "authentication": "<secret manager reference only; no secret value>",
+  "currency": "CNY",
+  "maxAgeSeconds": 300,
+  "fieldEvidenceRequired": ["name", "price", "sku", "stock"],
+  "bindings": "<persisted existing productId and propertyValueIdHash mapping>",
+  "publicationEnabled": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "simlect-isolated-e2e",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "playwright test",
+    "test:return": "playwright test tests/return.spec.mjs",
+    "browser": "node scripts/browser-session.mjs",
+    "check": "node --test tests/*.test.mjs"
+  },
+  "devDependencies": { "@playwright/test": "1.65.0" }
+}
